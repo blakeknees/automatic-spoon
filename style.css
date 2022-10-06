@@ -1,3 +1,8 @@
 body {
-    background-color: palegreen;
+    background-color: beige;
+}
+
+h1 {
+    font-size: 40px;
+    color: palevioletred;
 }
